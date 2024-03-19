@@ -4,10 +4,6 @@
 
 Reddit is a popular online community where users engage in discussions across various topics through posts and comments. The platform is organized into user-created boards called subreddits, which are specialized forums that enable users to engage in discussions about topics that interest them. The Webis-TLDR-17 Corpus dataset, used in this investigation, contains around 4 million content-summary pairs from the Reddit dataset, providing a valuable resource for researchers and practitioners interested in natural language processing and summarization tasks.
 
-### Data Format
-
-The Webis-TLDR-17 Corpus dataset is stored in a JSON (JavaScript Object Notation) file format. JSON is a lightweight, versatile, and programming language-independent format that facilitates data exchange and representation. The schema of the JSON object in the dataset includes fields like author, body text, content, summary, subreddit, and more.
-
 ### Computational Experiments
 
 The report details the computational experiments conducted, including the setup of a distributed system with Apache Spark and HDFS, scalability analysis (vertical and horizontal), and strong and weak scaling experiments. Performance measurements for different core counts in both strong and weak scaling scenarios are presented, showcasing the system's efficiency and scalability.
