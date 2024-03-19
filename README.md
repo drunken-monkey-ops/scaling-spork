@@ -1,9 +1,5 @@
 # scaling-spork
 
-### Overview
-
-This README file provides a comprehensive summary of the Group-16 report on the investigation of authors in the Reddit dataset. The report delves into the behaviors and contributions of users on the Reddit platform, focusing on the unique features of Reddit, such as upvoting, downvoting, controversiality scores, and distinguished comments. The report also includes computational experiments, results, discussions, and conclusions.
-
 ### Background
 
 Reddit is a popular online community where users engage in discussions across various topics through posts and comments. The platform is organized into user-created boards called subreddits, which are specialized forums that enable users to engage in discussions about topics that interest them. The Webis-TLDR-17 Corpus dataset, used in this investigation, contains around 4 million content-summary pairs from the Reddit dataset, providing a valuable resource for researchers and practitioners interested in natural language processing and summarization tasks.
